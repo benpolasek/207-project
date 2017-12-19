@@ -6,4 +6,18 @@ A beer dispenser was build as a final class project for CS 207. The purpose of b
 
 Inspirations
 
-	The idea for the project came about when a good friend of mine invited me to his house to see his new beer fridge. He told me I should buy one, so I decided to make one in an attempt to show him up. Looking online I found an instructibles article for a similar project that used compress CO2 to dispense beer manually, not automatically. This sample project also included a payment system that I did not was to implement given what it was going to be used for. This was the main sourced used as it had useful information on parts and specifically using relays to control solenoid valves. While a useful starting point, I opted for a more automated and sustainable build that I would actually want to use long term. This way my goal of pouring the perfect beer every time  was achievable as it takes the human error out of the equation. 
+The idea for the project came about when a good friend of mine invited me to his house to see his new beer fridge. He told me I should buy one, so I decided to make one in an attempt to show him up. Looking online I found an instructibles article for a similar project that used compress CO2 to dispense beer manually, not automatically. This sample project also included a payment system that I did not was to implement given what it was going to be used for. This was the main sourced used as it had useful information on parts and specifically using relays to control solenoid valves. While a useful starting point, I opted for a more automated and sustainable build that I would actually want to use long term. This way my goal of pouring the perfect beer every time  was achievable as it takes the human error out of the equation. 
+
+Required Materials. 
+1 Arduino uno
+1 Breadboard
+1 Bilge Pump
+1 Solenoid valve
+1 photo resistor 
+2 leds one green one red
+2 push buttons
+1 5v relay
+PVC tubing to be cut to desired length
+many Wires and Generic resistors
+1 Temperature sensor
+1 Laser Pointer
