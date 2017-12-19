@@ -35,3 +35,6 @@ Sensor: the function “sensor” collects the readings from all the inputs (pho
 User Manual for the Beer Dispenser
 
 To operate the beer dispenser you first must power on the Ardunio with a computer as the temperature sensor, flow sensor, and photo-resistor all return values to the serial monitor. Next you must place the tube connected to the bottom of the pump into the vessel containing the liquid you wish to pour. The next thing is to ensure the laser pointer is on and lined up with the photo-resistor, and place a glass into the ring drawn on the bottom of the cardboard enclosure. Then if the green light on the breadboard is illuminated the machine is ready to operate. Pressing the first button will cause liquid to flow only while the button is held down, the second button will automatically pour until the laser gate is broken when the glass is full. While the machine is automatically pouring repressing any of the buttons will immediately stop the machine from running. You can now enjoy your perfectly poured beer.
+
+Team
+Ben Polasek
